@@ -15,7 +15,7 @@ else:
     movimentacoes.append('Não é possível realizar o saque.')
     print('Não é possível realizar o saque.')
     
-print('\nExtrato:')
+print('\nExtrato')
 for movimentacao in movimentacoes:
     print(movimentacao)
 
