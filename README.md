@@ -1,8 +1,3 @@
-Caros colegas e entusiastas da programação,
-
-Hoje, gostaria de compartilhar com vocês a breve biografia de um código que tem sua origem na simplicidade, desenvolvido com o propósito de gerenciar saldos bancários e movimentações financeiras.
-
-Gênese:
 Esse código foi concebido para oferecer uma solução direta e eficiente, visando o controle de depósitos, saques e a manutenção de um extrato claro e conciso.
 
 Estrutura:
